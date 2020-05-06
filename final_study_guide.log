@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.8)  6 MAY 2020 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.8)  6 MAY 2020 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -316,7 +316,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
-<pics/naivebayes.png, id=28, 717.68124pt x 478.78876pt>
+<pics/naivebayes.png, id=36, 717.68124pt x 478.78876pt>
 File: pics/naivebayes.png Graphic file (type png)
 <use pics/naivebayes.png>
 Package pdftex.def Info: pics/naivebayes.png  used on input line 42.
@@ -324,13 +324,13 @@ Package pdftex.def Info: pics/naivebayes.png  used on input line 42.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
  [2 <./pics/naivebayes.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
 
 (./final_study_guide.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 
 
 Package rerunfilecheck Warning: File `final_study_guide.out' has changed.
@@ -338,15 +338,15 @@ Package rerunfilecheck Warning: File `final_study_guide.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `final_study_guide.out':
-(rerunfilecheck)             Before: C8BAF3DFB5AF1086932BCAFA0AC5A297;388
-(rerunfilecheck)             After:  3DD12E3835D544B60D06C9437C150E23;518.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
+(rerunfilecheck)             Before: 3DD12E3835D544B60D06C9437C150E23;518
+(rerunfilecheck)             After:  30A6ACD901098B54F1BD9EC21E8FB78A;923.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 5520 strings out of 494923
- 82205 string characters out of 6180742
- 166840 words of memory out of 5000000
- 8804 multiletter control sequences out of 15000+600000
+ 5529 strings out of 494923
+ 82320 string characters out of 6180742
+ 166843 words of memory out of 5000000
+ 8806 multiletter control sequences out of 15000+600000
  5504 words of font info for 20 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  28i,6n,32p,472b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -359,10 +359,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
 ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmti10.pfb>
-Output written on final_study_guide.pdf (2 pages, 325223 bytes).
+Output written on final_study_guide.pdf (2 pages, 327909 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
+ 70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
